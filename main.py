@@ -49,5 +49,3 @@ while playing:
             playing = False
 
 screen.exitonclick()
-
-#this is a comment to test git
