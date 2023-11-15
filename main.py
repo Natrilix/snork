@@ -50,4 +50,4 @@ while playing:
 
 screen.exitonclick()
 
-# a new comment, for a new commit
+# a newewr comment, for a newer commit
